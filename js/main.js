@@ -139,5 +139,4 @@ btn3.addEventListener ('click', ()=> {
         sbtn5.classList.remove('d-none')
         count= 1
     }
-
 })

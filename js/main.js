@@ -31,7 +31,7 @@ sbtn1.addEventListener('click', ()=> {
 })
 sbtn2.addEventListener('click', ()=> {
 
-    btn1.classList.add('active__text')
+    btn2.classList.remove('active__text')
     submitSpan2.classList.remove('active-btn' )
     btn3.classList.remove('active__text');
     submitSpan3.classList.remove('active-btn' );
